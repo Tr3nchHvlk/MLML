@@ -6,7 +6,7 @@ The MLML has a similar structural fashion to Assembly.
 
 **Examples:**
 
-MUL INPUT[i] INPUT[i+1] INPUT[i+1] FOR i FROM INPUT.0 Y
+MUL INPUT[i] INPUT[i+1] INPUT[i+1] FOR i FROM INPUT.0 AS Y
 
 COPY INPUT IX
 
