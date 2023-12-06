@@ -1,0 +1,12 @@
+<code>
+MUL INPUT[i] INPUT[i+1] INPUT[i+1] FOR i FROM INPUT.0
+
+MMUL
+
+ADD 
+
+SUM
+
+DIV
+
+</code>
